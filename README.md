@@ -5,6 +5,7 @@
  - Dialog support
  - New questions and functions
  - Auto-update
+ 
 This script works the same as the old one. It freezes player's character, spoofs printing answer and answers.
 ### Commands:
 |Command|Function|
