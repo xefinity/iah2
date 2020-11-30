@@ -1,0 +1,13 @@
+{
+    "0": {
+        "name": "Детские вопросы v1",
+        "author": "gg",
+        "type": 0,
+        "ctype": false,
+        "cstring": "config[1] = {'Hello World', 'Goodbye World'}",
+        "desc": "Набор детских вопросов из капчи Diamond Rp.",
+        "date": "01-01-1970",
+        "minver": 1,
+        "maxver": -1
+    }
+}
