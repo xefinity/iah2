@@ -7,7 +7,7 @@ Name of package.
 Author of package.
 ## type
 ### Type: int
-Type of package. (0 - custom answers, 1 - config, 2 - plugin)
+Type of package. (0 - custom answers, 1 - config, 2 - plugin, 3 - other)
 ## ctype
 ### Type: bool
 Type of content. (true for file, false for string)
