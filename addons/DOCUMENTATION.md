@@ -26,3 +26,6 @@ Minimal version of script that package supports.
 ## maxver
 ### Type: int
 Maximum verison of script that package supports. Can be -1 for any version.
+## legacy
+### Type: bool
+Is package obsolete.
