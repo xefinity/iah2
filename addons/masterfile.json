@@ -8,6 +8,7 @@
         "desc": "Набор детских вопросов из капчи Diamond Rp.",
         "date": "01-01-1970",
         "minver": 1,
-        "maxver": -1
+        "maxver": -1,
+        "legacy": false
     }
 ]
