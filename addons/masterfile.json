@@ -4,6 +4,7 @@
         "author": "gg",
         "type": 0,
         "ctype": false,
+        "cname": "none",
         "cstring": "data[1].legacy = true",
         "desc": "Набор детских вопросов из капчи Diamond Rp.",
         "date": "01-01-1970",
