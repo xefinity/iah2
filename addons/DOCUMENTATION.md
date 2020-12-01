@@ -11,6 +11,9 @@ Type of package. (0 - custom answers, 1 - config, 2 - plugin, 3 - other)
 ## ctype
 ### Type: bool
 Type of content. (true for file, false for string)
+## cname
+### Type: string
+Name of file (only useful for ctype = true)
 ## cstring
 ### Type: string (logik xd)
 Content string. If CType is true, script downloads the content file into /moonloader/, if false - applies content using lua's eval
