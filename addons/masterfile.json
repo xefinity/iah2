@@ -4,7 +4,7 @@
         "author": "gg",
         "type": 0,
         "ctype": false,
-        "cstring": "config[1] = {'Hello World', 'Goodbye World'}",
+        "cstring": "data[1].legacy = true",
         "desc": "Набор детских вопросов из капчи Diamond Rp.",
         "date": "01-01-1970",
         "minver": 1,
