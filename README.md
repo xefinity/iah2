@@ -11,7 +11,7 @@ This script works the same as the old one. It freezes player's character, spoofs
 |Command|Function|
 |--|--|
 |`/tiah` |Disable/enable script|
-|`/iah` |Open settings menu|
+|`/iah` |Open menu|
 |`/updateiah` |Update script|
 ### Requirements:
 [GTA SA:MP 0.3.7 (R0 recommended)](www.sa-mp.com)
